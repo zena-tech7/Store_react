@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "PC Gamer",
+    "img": "/img/815P1vN3HpL._AC_UF1000,1000_QL80_.jpg",
+    "price": 3000,
+    "description": "Un PC gamer puissant conçu pour offrir des performances élevées et une expérience de jeu immersive."
+  },
+  {
+    "id": 2,
+    "name": "PC Gamer Blanc",
+    "img": "/img/images1.jpg",
+    "price": 6700,
+    "description": "Un PC gamer blanc haut de gamme avec des composants de pointe, idéal pour les joueurs exigeants."
+  },
+  {
+    "id": 3,
+    "name": "PC Gamer Noir",
+    "img": "/img/pc-gamer-ultrapc-core-i5-10400f-512gb-ssd-16gb-rtx3060.jpg",
+    "price": 5000,
+    "description": "Un PC gamer noir élégant avec des performances solides pour faire tourner les jeux modernes sans problème."
+  },
+  {
+    "id": 4,
+    "name": "Streaming Samsung 5",
+    "img": "/img/dac-audio-et-streaming-samsung.jfif",
+    "price": 2000,
+    "description": "Un appareil de streaming ou DAC Samsung, conçu pour une qualité audio et vidéo optimale."
+  },
+  {
+    "id": 5,
+    "name": "Casque",
+    "img": "/img/casque.jfif",
+    "price": 2200,
+    "description": "Un casque premium offrant une excellente qualité sonore et un grand confort pour le gaming ou le multimédia."
+  },
+  {
+    "id": 6,
+    "name": "Disque SSD",
+    "img": "/img/disque-ssd.jfif",
+    "price": 2500,
+    "description": "Un disque SSD haute vitesse pour améliorer les performances de stockage et réduire les temps de chargement."
+  },
+  {
+    "id": 7,
+    "name": "PC Gamer Blanc",
+    "img": "/img/pc-gamer-blanc.jfif",
+    "price": 2800,
+    "description": "Une autre version d’un PC gamer blanc, combinant esthétique et performances à un prix abordable."
+  },
+  {
+    "id": 8,
+    "name": "PC Gamer Noir",
+    "img": "/img/pc-gamer1.jfif",
+    "price": 3000,
+    "description": "Un PC gamer noir économique avec un bon matériel, idéal pour le gaming occasionnel ou intermédiaire."
+  },
+  {
+    "id": 9,
+    "name": "Pure Power 12",
+    "img": "/img/power-pure-12.jfif",
+    "price": 3200,
+    "description": "Une alimentation haute performance conçue pour offrir une puissance stable et efficace aux PC gamers."
+  },
+  {
+    "id": 10,
+    "name": "The Crua 27 Curved Monitor",
+    "img": "/img/gaming-monitor.jpg",
+    "price": 3500,
+    "description": "Un moniteur gaming incurvé de 27 pouces, offrant une expérience immersive avec des images nettes et un taux de rafraîchissement fluide."
+  },
+  {
+    "id": 11,
+    "name": "Gaming Monitor",
+    "img": "/img/gaming-monitor-online.jpg",
+    "price": 3800,
+    "description": "Un moniteur haute résolution optimisé pour le gaming, avec des couleurs vives et un temps de réponse rapide."
+  },
+  {
+    "id": 12,
+    "name": "Controller PS5",
+    "img": "/img/Controller-PS5.jpg",
+    "price": 4000,
+    "description": "Une manette PlayStation 5 avec retour haptique avancé et gâchettes adaptatives pour une expérience de jeu nouvelle génération."
+  },
+  {
+    "id": 13,
+    "name": "PS4 Controller",
+    "img": "/img/PS4-Controller.jfif",
+    "price": 4200,
+    "description": "Une manette PlayStation 4 ergonomique avec des commandes réactives pour une expérience fluide."
+  },
+  {
+    "id": 14,
+    "name": "SOMIC G951S",
+    "img": "/img/casque-girls.jfif",
+    "price": 4500,
+    "description": "Un casque gaming élégant et confortable, offrant un son de haute qualité pour les longues sessions de jeu."
+  },
+  {
+    "id": 15,
+    "name": "KINGTOP KG2000",
+    "img": "/img/casque-4.jpg",
+    "price": 4500,
+    "description": "Un casque gaming professionnel avec un son immersif et des fonctionnalités de réduction du bruit."
+  },
+  {
+    "id": 16,
+    "name": "KONIX Casque",
+    "img": "/img/KINIX-CASQUE.JPG",
+    "price": 4500,
+    "description": "Un casque gaming durable et de haute qualité, offrant une excellente clarté sonore et un grand confort."
+  },
+  {
+    "id": 17,
+    "name": "Girlie Casque",
+    "img": "/img/gaming-casque.jfif",
+    "price": 4500,
+    "description": "Un casque gaming au design unique, alliant style et performances audio pour les passionnés de jeux vidéo."
+  }
+]
